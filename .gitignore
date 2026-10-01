@@ -1,0 +1,19 @@
+# Data (download from Kaggle — see data/README.md)
+data/*.csv
+
+# Generated outputs
+outputs/
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
